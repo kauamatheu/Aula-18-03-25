@@ -1,0 +1,34 @@
+#className{
+    text-align: center;
+    color: blueviolet;
+}
+
+#classCenter{
+    display: flex;
+    justify-content: center;
+
+}
+
+.classTitle:hover{
+    background-color: gray;
+    transition: 1.5s;
+}
+
+.classBackgroud{
+    background-color: lightblue;
+}
+
+p{
+    font-family: Verdana;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+div.minhadiv{
+    border-style: dashed;
+    border-color: black;
+    background-color: lightgray;
+    justify-content: center;
+}
